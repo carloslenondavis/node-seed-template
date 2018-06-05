@@ -1,0 +1,7 @@
+{
+    "ext": "js",
+    "ignore": ["./node_modules"],
+    "verbose": true,
+    "watch": ["./src"],
+    "debug": true
+}
